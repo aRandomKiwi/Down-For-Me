@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<aRandomKiwi_DFM_ForceDownLabel>裝死</aRandomKiwi_DFM_ForceDownLabel>
+	<aRandomKiwi_DFM_ForceDownDesc>強制假裝被擊倒</aRandomKiwi_DFM_ForceDownDesc>
+	
+	<aRandomKiwi_DFM_ForceUndownLabel>停止裝死</aRandomKiwi_DFM_ForceUndownLabel>
+	<aRandomKiwi_DFM_ForceUndownDesc>停止假裝被擊倒</aRandomKiwi_DFM_ForceUndownDesc>
+</LanguageData>
